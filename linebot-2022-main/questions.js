@@ -15,7 +15,7 @@ class Q1 extends Question {
   questionMessage() {
     return {
       type: "text",
-      text: `問題1: パンはパンでも食べられないパンはなーんだ？`,
+      text: `問題1: パンはパンでも食べられないパンは何？`,
     };
   }
 
