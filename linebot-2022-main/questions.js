@@ -22,7 +22,7 @@ class Q1 extends Question {
   hintMessage() {
     return {
       type: "text",
-      text: `フライパン以外の言葉は許容するはずがないだろう。,
+      text: `フライパン以外の言葉は許容するはずがないだろう。`,
     };
   }
 
